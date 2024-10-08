@@ -2,36 +2,36 @@
   "totalImages": 191,
   "images": [
     {
-      "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.png",
+      "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.png",
       "index": 1,
-      "author": "goodqisma",
-      "comment": "Create a minimalistic logo for 'Lady Locksmith' featuring a black logo on a white background. The design should integrate the silhouette of a woman's head with the shape of a key, incorporating a subtle motherboard pattern within the key's design. The logo should seamlessly blend these elements to represent technology, empowerment, and precision. The overall look should be sleek and modern, emphasizing simplicity and sophistication, perfect for an innovative automotive locksmith brand.",
-      "midjourneyInstructions": "",
+      "author": "bluedescart",
+      "comment": "a funny cartoon Engineering figures as highly stylized black and white cartoon drawing, heavily inspired by mid-20th century graphic design. silhouette is outlined with bold, uniform lines, both depicted in bold, solid blocks of black and white to emphasize the abstract form, descent coloring on the edges of the blocks to generate an impressive 3D effect, perfect play of light and shadows, Picasso Escher Kahn banksy style, fully in frame,",
+      "midjourneyInstructions": "--ar 3:5 --v 6.1",
       "variants": {
         "320": {
           "width": 320,
-          "height": 320,
-          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
+          "height": 537,
+          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
         },
         "640": {
           "width": 640,
-          "height": 640,
-          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
+          "height": 1075,
+          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
         },
         "1024": {
           "width": 1024,
-          "height": 1024,
-          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
+          "height": 1720,
+          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
         },
         "1920": {
           "width": 1920,
-          "height": 1920,
-          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
+          "height": 3224,
+          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
         },
         "original": {
-          "width": 1024,
-          "height": 1024,
-          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
+          "width": 848,
+          "height": 1424,
+          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
         }
       }
     },
@@ -6020,36 +6020,36 @@
       }
     },
     {
-      "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.png",
+      "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.png",
       "index": 178,
-      "author": "bluedescart",
-      "comment": "a funny cartoon Engineering figures as highly stylized black and white cartoon drawing, heavily inspired by mid-20th century graphic design. silhouette is outlined with bold, uniform lines, both depicted in bold, solid blocks of black and white to emphasize the abstract form, descent coloring on the edges of the blocks to generate an impressive 3D effect, perfect play of light and shadows, Picasso Escher Kahn banksy style, fully in frame,",
-      "midjourneyInstructions": "--ar 3:5 --v 6.1",
+      "author": "goodqisma",
+      "comment": "Create a minimalistic logo for 'Lady Locksmith' featuring a black logo on a white background. The design should integrate the silhouette of a woman's head with the shape of a key, incorporating a subtle motherboard pattern within the key's design. The logo should seamlessly blend these elements to represent technology, empowerment, and precision. The overall look should be sleek and modern, emphasizing simplicity and sophistication, perfect for an innovative automotive locksmith brand.",
+      "midjourneyInstructions": "",
       "variants": {
         "320": {
           "width": 320,
-          "height": 537,
-          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
+          "height": 320,
+          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
         },
         "640": {
           "width": 640,
-          "height": 1075,
-          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
+          "height": 640,
+          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
         },
         "1024": {
           "width": 1024,
-          "height": 1720,
-          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
+          "height": 1024,
+          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
         },
         "1920": {
           "width": 1920,
-          "height": 3224,
-          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
+          "height": 1920,
+          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
         },
         "original": {
-          "width": 848,
-          "height": 1424,
-          "filename": "c910bc7f-e443-4ea6-9477-d3944fd43732_0_1.jpg"
+          "width": 1024,
+          "height": 1024,
+          "filename": "94a094de-3c57-496b-ad60-66e57f72225e_0_0.jpg"
         }
       }
     },
